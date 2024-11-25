@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskBuddy2</string>
+    <string name="add_taskButton">Add Task</string>
+    <string name="add_task_task_title">Task Title</string>
+    <string name="add_task_task_description">Task Description</string>
+    <string name="add_task_save_task">Save Task</string>
+</resources>
